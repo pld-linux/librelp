@@ -6,7 +6,7 @@ Summary:	The Reliable Event Logging Protocol library
 Summary(pl.UTF-8):	Biblioteka Reliable Event Logging Protocol
 Name:		librelp
 Version:	1.8.0
-Release:	1
+Release:	2
 License:	GPL v3+ or commercial
 Group:		Libraries
 Source0:	https://download.rsyslog.com/librelp/%{name}-%{version}.tar.gz
